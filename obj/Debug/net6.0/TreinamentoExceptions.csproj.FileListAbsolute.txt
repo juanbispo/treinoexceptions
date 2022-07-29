@@ -1,0 +1,15 @@
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\bin\Debug\net6.0\TreinamentoExceptions.exe
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\bin\Debug\net6.0\TreinamentoExceptions.deps.json
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\bin\Debug\net6.0\TreinamentoExceptions.runtimeconfig.json
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\bin\Debug\net6.0\TreinamentoExceptions.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\bin\Debug\net6.0\TreinamentoExceptions.pdb
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.csproj.AssemblyReference.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.AssemblyInfoInputs.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.AssemblyInfo.cs
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\refint\TreinamentoExceptions.dll
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.pdb
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\TreinamentoExceptions.genruntimeconfig.cache
+C:\Users\Sale\Desktop\JUAN ESTUDOS\DESENVOLVIMENTO WEB\TreinamentoExceptions\obj\Debug\net6.0\ref\TreinamentoExceptions.dll
